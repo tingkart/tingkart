@@ -1,11 +1,13 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tingkart/tingkart/main/dark_mode.svg">
-  <img alt="Thomas Heggelund - Lead AI Scientist at Highsoft" src="https://raw.githubusercontent.com/tingkart/tingkart/main/light_mode.svg">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tingkart/tingkart/main/generated/neofetch_dark.svg"><img alt="Thomas Heggelund, Lead AI Scientist at Highsoft. Live stats card."  src="https://raw.githubusercontent.com/tingkart/tingkart/main/generated/neofetch_light.svg"></picture>
 
-<p align="left"><a href="https://allemannsdata.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tingkart/tingkart/main/link_allemannsdata_dark.svg"><img alt="Allemannsdata" width="50%" src="https://raw.githubusercontent.com/tingkart/tingkart/main/link_allemannsdata_light.svg"></picture></a><a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tingkart/tingkart/main/link_linkedin_dark.svg"><img alt="LinkedIn" width="50%" src="https://raw.githubusercontent.com/tingkart/tingkart/main/link_linkedin_light.svg"></picture></a></p>
+<p align="left"><a href="https://allemannsdata.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tingkart/tingkart/main/link_allemannsdata_dark.svg"><img alt="Allemannsdata" width="50%" src="https://raw.githubusercontent.com/tingkart/tingkart/main/link_allemannsdata_light.svg"></picture></a><a href="https://www.linkedin.com/in/sysfrog/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tingkart/tingkart/main/link_linkedin_dark.svg"><img alt="LinkedIn" width="50%" src="https://raw.githubusercontent.com/tingkart/tingkart/main/link_linkedin_light.svg"></picture></a></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tingkart/tingkart/output/pacman-contribution-graph-dark.svg">
-  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/tingkart/tingkart/output/pacman-contribution-graph.svg">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tingkart/tingkart/main/generated/heatmap_dark.svg"><img alt="Heatmap of my contributions in the last year"  src="https://raw.githubusercontent.com/tingkart/tingkart/main/generated/heatmap_light.svg"></picture>
+
+<p align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tingkart/tingkart/main/generated/weekday_dark.svg"><img alt="Polar chart of my contributions by weekday" width="49.5%" src="https://raw.githubusercontent.com/tingkart/tingkart/main/generated/weekday_light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tingkart/tingkart/main/generated/languages_dark.svg"><img alt="Donut chart of the languages in my public repos" width="49.5%" src="https://raw.githubusercontent.com/tingkart/tingkart/main/generated/languages_light.svg"></picture></p>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tingkart/tingkart/main/generated/power_dark.svg"><img alt="Live Norwegian spot power prices for NO1 to NO5 today, from Allemannsdata"  src="https://raw.githubusercontent.com/tingkart/tingkart/main/generated/power_light.svg"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tingkart/tingkart/output/pacman-contribution-graph_dark.svg"><img alt="Pac-Man eating my contribution graph"  src="https://raw.githubusercontent.com/tingkart/tingkart/output/pacman-contribution-graph_light.svg"></picture>
+
+<sub>Charts made with <a href="https://www.highcharts.com">Highcharts</a>, rebuilt every morning by a GitHub Action. Power prices: <a href="https://allemannsdata.com">Allemannsdata</a>.</sub>

@@ -1,0 +1,12 @@
+{
+  "name": "tingkart-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/build.mjs --mock"
+  },
+  "dependencies": {
+    "playwright": "1.49.1"
+  }
+}
