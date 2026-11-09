@@ -8,6 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tingkart/tingkart/main/generated/power_dark.svg"><img alt="Live Norwegian spot power prices for NO1 to NO5 today, from Allemannsdata"  src="https://raw.githubusercontent.com/tingkart/tingkart/main/generated/power_light.svg"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tingkart/tingkart/output/pacman-contribution-graph_dark.svg"><img alt="Pac-Man eating my contribution graph"  src="https://raw.githubusercontent.com/tingkart/tingkart/output/pacman-contribution-graph_light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tingkart/tingkart/output/pacman-contribution-graph-dark.svg"><img alt="Pac-Man eating my contribution graph"  src="https://raw.githubusercontent.com/tingkart/tingkart/output/pacman-contribution-graph.svg"></picture>
 
 <sub>Charts made with <a href="https://www.highcharts.com">Highcharts</a>, rebuilt every morning by a GitHub Action. Power prices: <a href="https://allemannsdata.com">Allemannsdata</a>.</sub>
